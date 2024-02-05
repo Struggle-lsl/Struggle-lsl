@@ -24,15 +24,13 @@
   <h3> I'm 23 years old.</h3>
 </p>
 
- - 🥀 Learning Swift & Objective_C
+ - 🥀 Learning Pthon & AI
  
- - <i>with Javascript, Typescript, React and 69 others.</i>
+ - <i>with many languages.</i>
    
  - 🔭 SpaceX FanBoi, die for space😼
 
  - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
- 
- - I do fullstack and a bit of everything :heart:
  
  - All About living life at its best.
  
